@@ -1,2 +1,7 @@
-# test_project
-my first project on github
+*курсив*
+**жирный текст**
+
+1. пункт
+2. пункт
+3. пункт
+
